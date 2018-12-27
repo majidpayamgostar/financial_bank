@@ -36,7 +36,6 @@ const styles = StyleSheet.create({
     },
     headerDetailBody: {
         flex: 1,
-        // backgroundColor: 'red',
         marginHorizontal: 13,
         marginVertical: 10,
     },
